@@ -3,8 +3,6 @@
 AI-powered document intelligence system with **RAG (Retrieval-Augmented Generation)**, **summarization**, and **question answering**.  
 Supports PDF/TXT ingestion, vector search with FAISS, and multiple LLM backends (OpenAI / Hugging Face).
 
----
-
 ## 🚀 Features
 - 📂 Load and process **PDF** and **TXT** documents.
 - ✂️ Automatic **chunking** and embedding generation.
@@ -20,7 +18,7 @@ Supports PDF/TXT ingestion, vector search with FAISS, and multiple LLM backends 
 
 ### 1️⃣ Clone repo
 ```bash
-git clone https://github.com/yourusername/ai_doc_intel.git
+git clone https://github.com/antick011/AI-Document-Intelligence
 cd ai_doc_intel
 
 2️⃣ Create virtual environment
@@ -101,5 +99,6 @@ You can:
     Docker deployment
 
 📜 License
+
 
 MIT License © 2025 Antick Bhattacharjee
